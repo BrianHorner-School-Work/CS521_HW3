@@ -1,0 +1,8 @@
+Tulip, 1, 3.8
+Bailey, 2, 3.2
+Gracie, 3, 4.0
+Bella, 4, 2.8
+Smokey, 5, 3.8
+Patches, 6, 3.4
+Chloe, 7, 3.0
+Brian, 8, 4.0
